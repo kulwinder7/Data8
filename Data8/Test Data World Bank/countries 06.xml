@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:countries page="6" pages="6" per_page="50" total="262" xmlns:wb="http://www.worldbank.org">
+  <wb:country id="VCT">
+    <wb:iso2Code>VC</wb:iso2Code>
+    <wb:name>St. Vincent and the Grenadines</wb:name>
+    <wb:region id="LCN">Latin America &amp; Caribbean (all income levels)</wb:region>
+    <wb:adminregion id="LAC">Latin America &amp; Caribbean (developing only)</wb:adminregion>
+    <wb:incomeLevel id="UMC">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IDB">Blend</wb:lendingType>
+    <wb:capitalCity>Kingstown</wb:capitalCity>
+    <wb:longitude>-61.2653</wb:longitude>
+    <wb:latitude>13.2035</wb:latitude>
+  </wb:country>
+  <wb:country id="VEN">
+    <wb:iso2Code>VE</wb:iso2Code>
+    <wb:name>Venezuela, RB</wb:name>
+    <wb:region id="LCN">Latin America &amp; Caribbean (all income levels)</wb:region>
+    <wb:adminregion id="LAC">Latin America &amp; Caribbean (developing only)</wb:adminregion>
+    <wb:incomeLevel id="UMC">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD">IBRD</wb:lendingType>
+    <wb:capitalCity>Caracas</wb:capitalCity>
+    <wb:longitude>-69.8371</wb:longitude>
+    <wb:latitude>9.08165</wb:latitude>
+  </wb:country>
+  <wb:country id="VIR">
+    <wb:iso2Code>VI</wb:iso2Code>
+    <wb:name>Virgin Islands (U.S.)</wb:name>
+    <wb:region id="LCN">Latin America &amp; Caribbean (all income levels)</wb:region>
+    <wb:adminregion id="" />
+    <wb:incomeLevel id="NOC">High income: nonOECD</wb:incomeLevel>
+    <wb:lendingType id="LNX">Not classified</wb:lendingType>
+    <wb:capitalCity>Charlotte Amalie</wb:capitalCity>
+    <wb:longitude>-64.8963</wb:longitude>
+    <wb:latitude>18.3358</wb:latitude>
+  </wb:country>
+  <wb:country id="VNM">
+    <wb:iso2Code>VN</wb:iso2Code>
+    <wb:name>Vietnam</wb:name>
+    <wb:region id="EAS">East Asia &amp; Pacific (all income levels)</wb:region>
+    <wb:adminregion id="EAP">East Asia &amp; Pacific (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LMC">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDB">Blend</wb:lendingType>
+    <wb:capitalCity>Hanoi</wb:capitalCity>
+    <wb:longitude>105.825</wb:longitude>
+    <wb:latitude>21.0069</wb:latitude>
+  </wb:country>
+  <wb:country id="VUT">
+    <wb:iso2Code>VU</wb:iso2Code>
+    <wb:name>Vanuatu</wb:name>
+    <wb:region id="EAS">East Asia &amp; Pacific (all income levels)</wb:region>
+    <wb:adminregion id="EAP">East Asia &amp; Pacific (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LMC">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX">IDA</wb:lendingType>
+    <wb:capitalCity>Port-Vila</wb:capitalCity>
+    <wb:longitude>168.321</wb:longitude>
+    <wb:latitude>-17.7404</wb:latitude>
+  </wb:country>
+  <wb:country id="WLD">
+    <wb:iso2Code>1W</wb:iso2Code>
+    <wb:name>World</wb:name>
+    <wb:region id="NA">Aggregates</wb:region>
+    <wb:adminregion id="" />
+    <wb:incomeLevel id="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="WSM">
+    <wb:iso2Code>WS</wb:iso2Code>
+    <wb:name>Samoa</wb:name>
+    <wb:region id="EAS">East Asia &amp; Pacific (all income levels)</wb:region>
+    <wb:adminregion id="EAP">East Asia &amp; Pacific (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LMC">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX">IDA</wb:lendingType>
+    <wb:capitalCity>Apia</wb:capitalCity>
+    <wb:longitude>-171.752</wb:longitude>
+    <wb:latitude>-13.8314</wb:latitude>
+  </wb:country>
+  <wb:country id="XZN">
+    <wb:iso2Code>A5</wb:iso2Code>
+    <wb:name>Sub-Saharan Africa excluding South Africa and Nigeria</wb:name>
+    <wb:region id="NA">Aggregates</wb:region>
+    <wb:adminregion id="" />
+    <wb:incomeLevel id="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="YEM">
+    <wb:iso2Code>YE</wb:iso2Code>
+    <wb:name>Yemen, Rep.</wb:name>
+    <wb:region id="MEA">Middle East &amp; North Africa (all income levels)</wb:region>
+    <wb:adminregion id="MNA">Middle East &amp; North Africa (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LMC">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX">IDA</wb:lendingType>
+    <wb:capitalCity>Sana'a</wb:capitalCity>
+    <wb:longitude>44.2075</wb:longitude>
+    <wb:latitude>15.352</wb:latitude>
+  </wb:country>
+  <wb:country id="ZAF">
+    <wb:iso2Code>ZA</wb:iso2Code>
+    <wb:name>South Africa</wb:name>
+    <wb:region id="SSF">Sub-Saharan Africa (all income levels)</wb:region>
+    <wb:adminregion id="SSA">Sub-Saharan Africa (developing only)</wb:adminregion>
+    <wb:incomeLevel id="UMC">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD">IBRD</wb:lendingType>
+    <wb:capitalCity>Pretoria</wb:capitalCity>
+    <wb:longitude>28.1871</wb:longitude>
+    <wb:latitude>-25.746</wb:latitude>
+  </wb:country>
+  <wb:country id="ZMB">
+    <wb:iso2Code>ZM</wb:iso2Code>
+    <wb:name>Zambia</wb:name>
+    <wb:region id="SSF">Sub-Saharan Africa (all income levels)</wb:region>
+    <wb:adminregion id="SSA">Sub-Saharan Africa (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LMC">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX">IDA</wb:lendingType>
+    <wb:capitalCity>Lusaka</wb:capitalCity>
+    <wb:longitude>28.2937</wb:longitude>
+    <wb:latitude>-15.3982</wb:latitude>
+  </wb:country>
+  <wb:country id="ZWE">
+    <wb:iso2Code>ZW</wb:iso2Code>
+    <wb:name>Zimbabwe</wb:name>
+    <wb:region id="SSF">Sub-Saharan Africa (all income levels)</wb:region>
+    <wb:adminregion id="SSA">Sub-Saharan Africa (developing only)</wb:adminregion>
+    <wb:incomeLevel id="LIC">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDB">Blend</wb:lendingType>
+    <wb:capitalCity>Harare</wb:capitalCity>
+    <wb:longitude>31.0672</wb:longitude>
+    <wb:latitude>-17.8312</wb:latitude>
+  </wb:country>
+</wb:countries>

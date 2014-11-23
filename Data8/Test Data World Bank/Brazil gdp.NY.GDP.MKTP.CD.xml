@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="2" per_page="50" total="55" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2009</wb:date>
+    <wb:value>1620188056416.93</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2008</wb:date>
+    <wb:value>1653508561457.08</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2007</wb:date>
+    <wb:value>1366823994658.72</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2006</wb:date>
+    <wb:value>1088916819852.94</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2005</wb:date>
+    <wb:value>882185702547.247</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2004</wb:date>
+    <wb:value>663760341880.342</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2003</wb:date>
+    <wb:value>552469288267.793</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>504221228974.035</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2001</wb:date>
+    <wb:value>553582178386.192</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>2000</wb:date>
+    <wb:value>644701831101.394</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1999</wb:date>
+    <wb:value>586862640399.442</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1998</wb:date>
+    <wb:value>843827363149.355</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1997</wb:date>
+    <wb:value>871200342859.687</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1996</wb:date>
+    <wb:value>839682618644.911</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1995</wb:date>
+    <wb:value>768951297894.977</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1994</wb:date>
+    <wb:value>546233380259.659</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1993</wb:date>
+    <wb:value>438299504406.263</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1992</wb:date>
+    <wb:value>390566551483.761</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1991</wb:date>
+    <wb:value>407337832905.405</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1990</wb:date>
+    <wb:value>461951782000</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1989</wb:date>
+    <wb:value>425595310000</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1988</wb:date>
+    <wb:value>330397381998.489</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1987</wb:date>
+    <wb:value>294084112392.657</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1986</wb:date>
+    <wb:value>268137224729.724</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1985</wb:date>
+    <wb:value>222942790435.318</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1984</wb:date>
+    <wb:value>209023912696.764</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1983</wb:date>
+    <wb:value>203304515490.695</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1982</wb:date>
+    <wb:value>281682304160.256</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1981</wb:date>
+    <wb:value>263561088975.615</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1980</wb:date>
+    <wb:value>235024598984.118</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1979</wb:date>
+    <wb:value>224969488839.356</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1978</wb:date>
+    <wb:value>200800891871.957</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1977</wb:date>
+    <wb:value>176171284305.289</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1976</wb:date>
+    <wb:value>152678020453.114</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1975</wb:date>
+    <wb:value>123709376566.885</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1974</wb:date>
+    <wb:value>105136007544.771</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1973</wb:date>
+    <wb:value>79279057736.1044</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1972</wb:date>
+    <wb:value>58539008795.7658</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1971</wb:date>
+    <wb:value>49204456711.657</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1970</wb:date>
+    <wb:value>42327600115.9852</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1969</wb:date>
+    <wb:value>37458898265.2258</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1968</wb:date>
+    <wb:value>33875881906.0553</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1967</wb:date>
+    <wb:value>30591834045.3823</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1966</wb:date>
+    <wb:value>27062716510.5085</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1965</wb:date>
+    <wb:value>21790035102.382</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1964</wb:date>
+    <wb:value>21211892259.9904</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1963</wb:date>
+    <wb:value>23021477292.2093</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1962</wb:date>
+    <wb:value>19926293839.0163</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1961</wb:date>
+    <wb:value>15236854859.469</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:date>1960</wb:date>
+    <wb:value>15165569912.5199</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>

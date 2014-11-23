@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="6" per_page="50" total="258" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="L5">Andean Region</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1A">Arab World</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>723967590069.893</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S3">Caribbean small states</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>34929021599.5101</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="B8">Central Europe and the Baltics</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>520064499781.83</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z4">East Asia &amp; Pacific (all income levels)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>7664970238790.74</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="4E">East Asia &amp; Pacific (developing only)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>2028376144736.2</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C4">East Asia and the Pacific (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XC">Euro area</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>6916602598342.52</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z7">Europe &amp; Central Asia (all income levels)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>10634019082419.2</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="7E">Europe &amp; Central Asia (developing only)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>507144272210.31</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C5">Europe and Central Asia (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EU">European Union</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>9407995634440.73</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="F1">Fragile and conflict affected situations</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>169568014193.071</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XE">Heavily indebted poor countries (HIPC)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>157091298193.473</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XD">High income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>28189198881339.7</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XR">High income: nonOECD</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>1518093172766.63</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XS">High income: OECD</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>26669267448406.5</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZJ">Latin America &amp; Caribbean (all income levels)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>1998868806122.28</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XJ">Latin America &amp; Caribbean (developing only)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>1812069216469.87</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="L4">Latin America and the Caribbean</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C6">Latin America and the Caribbean (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XL">Least developed countries: UN classification</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>200517114561.691</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XO">Low &amp; middle income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>5809833788349.06</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XM">Low income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>176332502923.58</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XN">Lower middle income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>1346493555801.75</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="L6">Mexico and Central America</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZQ">Middle East &amp; North Africa (all income levels)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>940299978624.277</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XQ">Middle East &amp; North Africa (developing only)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>438027439682.021</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C7">Middle East and North Africa (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XP">Middle income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>5634985055084.63</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XU">North America</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>11736668930032.8</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XY">Not classified</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="OE">OECD members</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>27709750997197.2</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S4">Other small states</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>28494027043.1902</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S2">Pacific island small states</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>3508107929.93666</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S1">Small states</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>66931156572.6369</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="8S">South Asia</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>672494121092.634</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C8">South Asia (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="L7">Southern Cone Extended</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZG">Sub-Saharan Africa (all income levels)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>353597157456.148</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZF">Sub-Saharan Africa (developing only)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>351790837126.485</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="C9">Sub-Saharan Africa (IFC classification)</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XT">Upper middle income</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>4288462918820.93</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1W">World</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>34001369473542.7</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AF">Afghanistan</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>4128818042.61749</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AL">Albania</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>4449373455.56632</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DZ">Algeria</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>56760288961.5829</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AS">American Samoa</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AD">Andorra</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>1456198796.29382</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AO">Angola</wb:country>
+    <wb:date>2002</wb:date>
+    <wb:value>12497346042.8261</wb:value>
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>

@@ -1,0 +1,23 @@
+<DnaLibrary Name="Data8 Add-In" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="Data8.dll" LoadFromBytes="true" Pack="true" />
+
+  <CustomUI>
+    <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+      <ribbon>
+        <tabs>
+          <tab id="ribbonTab" label="DATA8">
+            <group id="Data8Group" label="DATA8">
+              <toggleButton id="CTPButtonShow" onAction="ShowCTP" label="Show Task Pane" imageMso="ExchangeFolder" size="large"/>
+              <toggleButton id="CTPButtonHide" onAction="HideCTP" label="Hide Task Pane" imageMso="ExchangeFolder" size="large"/>
+              <toggleButton id="SetACell" onAction="SetACell" label="SetACell" imageMso="ExchangeFolder" size="large"/>
+              <toggleButton id="LoadIndicatorNames" onAction="LoadIndicatorNames" label="Load Indicator Names" imageMso="ExchangeFolder" size="large"/>
+              <toggleButton id="LoadIndicator" onAction="LoadIndicatorData" label="Load Indicator Data" imageMso="ExchangeFolder" size="large"/>
+            </group>
+          </tab>
+        </tabs>
+      </ribbon>
+    </customUI>
+  </CustomUI>
+
+  
+</DnaLibrary>
